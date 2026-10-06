@@ -1,0 +1,8 @@
+os: built-in (tidak punya versi)
+shutil: built-in (tidak punya versi)
+random: built-in (tidak punya versi)
+numpy: 2.0.2
+matplotlib: 3.10.0
+tensorflow: 2.18.0
+scikit-learn: 1.6.1
+tqdm: 4.67.1
